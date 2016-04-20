@@ -1,0 +1,61 @@
+1;incisivo;Cabeza;Esqueleto Axial;54;M54;1234;02/02/2016;02/02/2016;1;2;3;4
+2;incisivos;Cabeza;Esqueleto Axial;55;M55;1234;02/02/2016;02/02/2016;1;2;3;4
+3;mandibula;Cabeza;Esqueleto Axial;57;M57;1234;03/02/2016;03/02/2016;1;2;3;4
+4;Maxilar;Cabeza;Esqueleto Axial;58;M58;1234;04/02/2016;04/02/2016;1;2;3;4
+5;Nasal;Cabeza;Esqueleto Axial;60;M60;1234;02/02/2016;02/02/2016;1;2;3;4
+6;temporal;Cabeza;Esqueleto Axial;67;M67;1234;02/02/2016;02/02/2016;1;2;3;4
+7;cigomatico;Cabeza;Esqueleto Axial;50;M50;1234;03/02/2016;03/02/2016;1;2;3;4
+8;basiefoides;Cabeza;Esqueleto Axial;48;M48;1234;04/02/2016;04/02/2016;1;2;3;4
+9;occipital;Cabeza;Esqueleto Axial;61;M61;1234;02/02/2016;02/02/2016;1;2;3;4
+10;premolares;Cabeza;Esqueleto Axial;66;M66;1234;02/02/2016;02/02/2016;1;2;3;4
+11;molares;Cabeza;Esqueleto Axial;59;M59;1234;03/02/2016;03/02/2016;1;2;3;4
+12;Lagrimal;Cabeza;Esqueleto Axial;56;M56;1234;04/02/2016;04/02/2016;1;2;3;4
+13;frontal;Cabeza;Esqueleto Axial;53;M53;1234;02/02/2016;02/02/2016;1;2;3;4
+14;parietal;Cabeza;Esqueleto Axial;63;M63;1234;02/02/2016;02/02/2016;1;2;3;4
+15;preeesfenoides;Cabeza;Esqueleto Axial;64;M64;1234;03/02/2016;03/02/2016;1;2;3;4
+16;palatino;Cabeza;Esqueleto Axial;62;M62;1234;04/02/2016;04/02/2016;1;2;3;4
+17;vomer;Cabeza;Esqueleto Axial;68;M68;1234;02/02/2016;02/02/2016;1;2;3;4
+18;concha ventral;Cabeza;Esqueleto Axial;52;M52;1234;02/02/2016;02/02/2016;1;2;3;4
+19;concha dorsal;Cabeza;Esqueleto Axial;51;M51;1234;03/02/2016;03/02/2016;1;2;3;4
+20;caninos;Cabeza;Esqueleto Axial;49;M49;1234;04/02/2016;04/02/2016;1;2;3;4
+21;Atlas;Columna Vertebral;Esqueleto Axial;44;M44;1238;02/02/2016;02/02/2016;1;2;3;4
+22;Axis;Columna Vertebral;Esqueleto Axial;45;M45;1239;02/02/2016;02/02/2016;1;2;3;4
+23;Cervicales;Columna Vertebral;Esqueleto Axial;46;M46;1240;03/02/2016;03/02/2016;1;2;3;4
+24;Vertebras Toracicas;Columna Vertebral;Esqueleto Axial;43;M43;1241;04/02/2016;04/02/2016;1;2;3;4
+25;Vertebras Lumbares;Columna Vertebral;Esqueleto Axial;42;M42;1242;02/02/2016;02/02/2016;1;2;3;4
+26;Vertebras Sacro;Columna Vertebral;Esqueleto Axial;47;M47;1243;02/02/2016;02/02/2016;1;2;3;4
+27;Vertebras Coxigeas;Columna Vertebral;Esqueleto Axial;41;M41;1244;03/02/2016;03/02/2016;1;2;3;4
+28;Costillas;Esqueleto Del Torax;Esqueleto Axial;40;M40;1245;04/02/2016;04/02/2016;1;2;3;4
+29;Esternon;Esqueleto Del Torax;Esqueleto Axial;39;M39;1246;02/02/2016;02/02/2016;1;2;3;4
+30;Escapula;Miembro Anterior;Esqueleto Apendicular;36;M36;1247;02/02/2016;02/02/2016;1;2;3;4
+31;Humero;Miembro Anterior;Esqueleto Apendicular;34;M34;1248;03/02/2016;03/02/2016;1;2;3;4
+32;Cubito;Miembro Anterior;Esqueleto Apendicular;33;M33;1249;04/02/2016;04/02/2016;1;2;3;4
+33;Radio;Miembro Anterior;Esqueleto Apendicular;32;M32;1250;02/02/2016;02/02/2016;1;2;3;4
+34;Base Metacarpo;Miembro Anterior;Esqueleto Apendicular;23;M23;1251;02/02/2016;02/02/2016;1;2;3;4
+35;Metacarpo;Miembro Anterior;Esqueleto Apendicular;24;M24;1252;03/02/2016;03/02/2016;1;2;3;4
+36;Sesamoide;Miembro Anterior;Esqueleto Apendicular;22;M22;1265;04/02/2016;04/02/2016;1;2;3;4
+37;Sesamoide Distal;Miembro Anterior;Esqueleto Apendicular;18;M18;1265;02/02/2016;02/02/2016;1;2;3;4
+38;Calcaneo;Miembro Anterior;Esqueleto Apendicular;11;M11;1262;02/02/2016;02/02/2016;1;2;3;4
+39;Carpo 2;Miembro Anterior;Esqueleto Apendicular;26;M26;1262;03/02/2016;03/02/2016;1;2;3;4
+40;Carpo 3;Miembro Anterior;Esqueleto Apendicular;28;M28;1262;04/02/2016;04/02/2016;1;2;3;4
+41;Carpo 4;Miembro Anterior;Esqueleto Apendicular;27;M27;1262;02/02/2016;02/02/2016;1;2;3;4
+42;Carpo Radial;Miembro Anterior;Esqueleto Apendicular;29;M29;1262;02/02/2016;02/02/2016;1;2;3;4
+43;Carpo Intermedio;Miembro Anterior;Esqueleto Apendicular;31;M31;1262;03/02/2016;03/02/2016;1;2;3;4
+44;Carpo Ulnar;Miembro Anterior;Esqueleto Apendicular;30;M30;1262;04/02/2016;04/02/2016;1;2;3;4
+45;Carpo Accesorio;Miembro Anterior;Esqueleto Apendicular;25;M25;1262;02/02/2016;02/02/2016;1;2;3;4
+46;Falange Proximal;Miembro Anterior;Esqueleto Apendicular;21;M21;1265;02/02/2016;02/02/2016;1;2;3;4
+47;Falange Media;Miembro Anterior;Esqueleto Apendicular;3;M3;1266;03/02/2016;03/02/2016;1;2;3;4
+48;Falange Distal;Miembro Anterior;Esqueleto Apendicular;19;M19;1267;04/02/2016;04/02/2016;1;2;3;4
+49;Coxal;Miembro Posterior;Esqueleto Apendicular;17;M17;1257;02/02/2016;02/02/2016;1;2;3;4
+50;Femur;Miembro Posterior;Esqueleto Apendicular;16;M16;1258;02/02/2016;02/02/2016;1;2;3;4
+51;Rotula;Miembro Posterior;Esqueleto Apendicular;15;M15;1259;03/02/2016;03/02/2016;1;2;3;4
+52;Perone;Miembro Posterior;Esqueleto Apendicular;13;M13;1260;04/02/2016;04/02/2016;1;2;3;4
+53;Tibia;Miembro Posterior;Esqueleto Apendicular;14;M14;1261;02/02/2016;02/02/2016;1;2;3;4
+54;Astragalo;Miembro Posterior;Esqueleto Apendicular;12;M12;1262;02/02/2016;02/02/2016;1;2;3;4
+55;Metatarso;Miembro Posterior;Esqueleto Apendicular;0;M0;1264;03/02/2016;03/02/2016;1;2;3;4
+56;Base Metatarso;Miembro Posterior;Esqueleto Apendicular;1;M1;1264;04/02/2016;04/02/2016;1;2;3;4
+57;Sesamoide;Miembro Posterior;Esqueleto Apendicular;6;M6;1265;02/02/2016;02/02/2016;1;2;3;4
+58;Sesamoide Distal;Miembro Posterior;Esqueleto Apendicular;2;M2;1265;02/02/2016;02/02/2016;1;2;3;4
+59;Falange Proximal;Miembro Posterior;Esqueleto Apendicular;5;M5;1265;03/02/2016;03/02/2016;1;2;3;4
+60;Falange Media;Miembro Posterior;Esqueleto Apendicular;20;M20;1266;04/02/2016;04/02/2016;1;2;3;4
+61;Falange Distal;Miembro Posterior;Esqueleto Apendicular;4;M4;1267;02/02/2016;02/02/2016;1;2;3;4
