@@ -1,0 +1,282 @@
+
+#simulacion{
+	width: 100%;
+	height: 100%;
+	
+	z-index: 10;
+	
+}
+
+
+#info_panel {
+	position: absolute;
+	top: 100px;
+	right: 10px;
+	width: 250px;
+	min-height: 200px;
+	z-index: 101;
+
+
+	cursor: default;
+	font: 11px "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+	overflow: hidden;
+	color: #fff;
+
+}
+
+.info-panel {
+	background-image: url("shim-transparent-black-50.png");
+	background-repeat: repeat-x repeat-y;
+}
+
+
+
+.info-panel-top {
+	min-height: 25px;
+	line-height: 25px;
+	background-image: url("shim-transparent-black-20.png");
+	background-repeat: repeat-x repeat-y;
+	padding: 0 20px 0 10px;
+	font-size: 13px;
+	font-weight: bold;
+	position: relative;
+	color: #FFFFFF;
+}
+
+.info-panel-top img {
+	opacity: .5;
+	position: absolute;
+	right: 5px;
+	top: 4px;
+}
+
+
+.icon-minimize {
+	background-position: -144px -144px;
+}
+[class^="icon-"], [class*=" icon-"] {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	line-height: 0;
+	vertical-align: text-top;
+	background-image: url("icons_sprite_16x16.png");
+	/*background-position: 16px 16px;*/
+	background-repeat: no-repeat;
+}
+
+.info-panel-body {
+	padding: 10px;
+	font-size: 12px;
+	line-height: 16px;
+	overflow:scroll; 
+	max-height: 200px;
+}
+#info{
+
+}
+#readmore{
+	padding-bottom: 10px;
+	text-align: center;
+
+}
+
+
+*:not(.normal-scroll)::-webkit-scrollbar {
+	height: 1.0ex;
+	width: 1.0ex;
+	-webkit-border-radius: 1ex;
+}
+*:not(.normal-scroll)::-webkit-scrollbar {
+	height: 1.0ex;
+	width: 5px;
+	-webkit-border-radius: 0;
+}
+
+*:not(.normal-scroll)::-webkit-scrollbar-thumb {
+	background: rgba(100,100,100,0.5);
+	-webkit-border-radius: 1ex;
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.4);
+}
+*:not(.normal-scroll)::-webkit-scrollbar-thumb {
+	background: rgba(100,100,100,0.3);
+	-webkit-border-radius: 3px;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.7);
+	opacity: .5;
+}
+
+:-webkit-full-screen html {
+	height: 100%;
+	width: 100%;
+	padding: : 100%;
+	margin:100%;
+}
+:-webkit-full-screen body {
+	height: 100%;
+	width: 100%;
+	padding: : 100%;
+	margin:100%;
+}
+
+:-webkit-full-screen #div_contenido{
+	
+	height: 50%;
+	width: 50%;
+}
+
+
+
+
+
+/*panel evaluacion*/
+
+#panel_evaluacion {
+	position: absolute;
+	top: 100px;
+	left: 10px;
+	width: 250px;
+	min-height: 210px;
+	z-index: 101;
+
+
+	cursor: default;
+	font: 11px "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+	overflow: hidden;
+	color: #fff;
+
+}
+
+.panel_evaluacion {
+	background-image: url("shim-transparent-black-50.png");
+	background-repeat: repeat-x repeat-y;
+}
+
+
+.pe_top {
+	min-height: 25px;
+	line-height: 25px;
+	background-image: url("shim-transparent-black-20.png");
+	background-repeat: repeat-x repeat-y;
+	padding: 0 20px 0 10px;
+	font-size: 13px;
+	font-weight: bold;
+	position: relative;
+	color: #FFFFFF;
+}
+
+
+#pe_body {
+	padding: 10px;
+	font-size: 12px;
+	line-height: 16px;
+	
+}
+
+#pe_botones{
+	padding: 10px;
+	font-size: 12px;
+	min-height: 45px;
+	max-height: 150px;
+	
+
+}
+#pe_sigte{
+	
+
+}
+
+#tabla_evaluacion_all{
+	text-align: center;
+	padding:5px;
+	border-collapse: separate;
+	border-spacing: 2px;
+}
+
+
+.btn-evapee{
+	
+	width: 160px;
+}
+
+
+
+
+#panel_partes {
+	position: absolute;
+	top: 0.1%;
+	right: 0.1%;
+
+	width: 30%;
+	height: 55%;
+
+	z-index: 20;
+	
+	
+	border-radius: 0px 0px 0px 0px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	-webkit-border-radius: 0px 0px 0px 0px;
+	border: 5px solid #ffffff;
+}
+
+#simulacion_partes{
+	width: 100%;
+	height: 100%;
+
+	z-index: 25;
+
+
+}
+
+#cerrar_partes{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	
+	width: 20px;
+	height:20px;
+	background: url("cerrarpartes.png") no-repeat;
+	background-size: 100% 100%;
+	cursor: pointer;
+
+	z-index: 30;
+}
+
+#fullscreen_partes{
+	position: absolute;
+	bottom: 10px;
+	top: 10px;
+	
+	width: 20px;
+	height:20px;
+	
+	
+	cursor: pointer;
+
+	z-index: 30;
+}
+
+#panel_partes:-webkit-full-screen {
+	width: 80vw;
+	height: 100vh;
+	
+	display: block;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	text-align: center;
+}
+
+#panel_partes:-moz-full-screen {
+	width: 80vw;
+	height: 100vh;
+}
+
+#panel_partes:-ms-fullscreen {
+	width: 80vw;
+	height: 100vh;
+}
+
+#panel_partes:fullscreen {
+	width: 80vw;
+	height: 100vh;
+}
